@@ -1,1 +1,1 @@
-# -my-java-sonar-project
+# my-java-sonar-project
